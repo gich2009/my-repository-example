@@ -1,1 +1,1 @@
-Another README.md file to replace the original which I renamed so that all the code passess all the necessary tests.
+Another README.md file to replace the original README.md file which I renamed to README2.md file in accordance with the additional practice section of the lab. A new README.md file had to be created so that the code passess all the necessary assertion tests.
